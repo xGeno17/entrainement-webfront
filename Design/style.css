@@ -23,11 +23,11 @@ header{
 	background-color: #E6E6E6;
 }
 h1{
-	font-family: Like Eat, sans-serif;
+	font-family: Roboto, sans-serif;
 	margin: 0;
 }
 h2{
-	font-family: Infinite Darkness Italic, sans-serif;
+	font-family: Roboto, sans-serif;
 	margin: 0;
 }
 strong{
@@ -42,23 +42,15 @@ a{
 }
 p a{
 	color: green;
-	font-family: Infinite Darkness Italic, sans-serif;
+	font-family: Roboto, sans-serif;
 }
 
 p{
-	font-family: Infinite Darkness, arial, sans-serif;
+	font-family: Roboto, arial, sans-serif;
 }
 
 @font-face{
-	font-family: 'Like Eat';
-	src: url('../src/likeeat.ttf') format('truetype');
-}
-@font-face{
-	font-family: 'Infinite Darkness';
-	src: url('../src/infinitedarkness.ttf') format('truetype');
-}
-@font-face{
-	font-family: 'Infinite Darkness Italic';
-	src: url('../src/infinitedarknessitalic.ttf') format('truetype');
+	font-family: 'Roboto';
+	src: url('../src/Roboto-Regular.ttf') format('truetype');
 }
 
